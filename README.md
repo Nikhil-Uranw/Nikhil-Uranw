@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil-Uranw</h1>
 <h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, JavaScript and Angular and back-end technologies like Spring Boot, Kafka and MongoDB. Always eager to learn and take on new challenges in the tech world</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> gith ... .txt Sign In Details Couldn't preview file There was a problem loading the details.Displaying github profile.txt.
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-uranw&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-uranw" /> </p>
